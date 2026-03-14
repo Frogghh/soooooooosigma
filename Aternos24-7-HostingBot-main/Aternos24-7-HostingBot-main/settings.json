@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Frogg_h.aternos.me:48083",
+    "ip": "Frogg_h.aternos.me",
     "port": 48083,
     "version": "1.21.11",
     "try-creative": false
